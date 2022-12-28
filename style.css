@@ -1,0 +1,25 @@
+*
+{
+  margin: 0px;
+  padding: 0px;
+  background-color: #222221;
+}
+body
+{
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#img
+{
+  width: 180px;
+  height: 300px;
+}
+#switch
+{
+  margin-top: 50px;
+  width: 105px;
+  height: 52px;
+}
